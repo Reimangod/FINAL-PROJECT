@@ -22,7 +22,7 @@ Cách sử dụng đơn giản trên python:
 1. Tải file creating_and_training_AI
 2. Run app.py
 
-*Lưu ý: Trước khi run app.py, tải [dataset](https://drive.google.com/file/d/19JjeUrHIyGfD-lq4-Sr5i3jam5caETto/view?usp=sharing) này và cho vào path: creating_and_training_AI/model/keypoint.csv
+*Lưu ý: Trước khi run app.py, tải [dataset](https://drive.google.com/file/d/19JjeUrHIyGfD-lq4-Sr5i3jam5caETto/view?usp=sharing) này và cho vào path: creating_and_training_AI/model/keypoint_classifier/keypoint.csv
 
 # Directory
 <pre>
