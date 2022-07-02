@@ -22,7 +22,16 @@ Cách sử dụng đơn giản trên python:
 1. Tải file creating_and_training_AI
 2. Run app.py
 
-*Lưu ý: Trước khi run app.py, tải [dataset](https://drive.google.com/file/d/19JjeUrHIyGfD-lq4-Sr5i3jam5caETto/view?usp=sharing) này và cho vào path: creating_and_training_AI/model/keypoint_classifier/keypoint.csv
+*Lưu ý: 
+- Trước khi run app.py, tải [dataset](https://drive.google.com/file/d/19JjeUrHIyGfD-lq4-Sr5i3jam5caETto/view?usp=sharing) này và cho vào path: creating_and_training_AI/model/keypoint_classifier/keypoint.csv
+- Requirements:
+mediapipe >=0.8.1
+opencv-python >= 3.4.2
+tensorflow >= 2.3.0
+tf-nightly >= 2.5.0-dev
+scikit-learn >= 0.23.2 
+matplotlib >= 3.3.2
+
 
 # Directory
 <pre>
