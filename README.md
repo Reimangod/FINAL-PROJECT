@@ -45,7 +45,7 @@ Giới thiệu về
 |  └─utils
 |      └─cvfpscalc.py
 |
-├─creating_web
+├─my-static-site-main 2
 |
 |
 |
