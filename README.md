@@ -18,7 +18,9 @@ Lê Phúc Khang:
 * Làm được web đơn giảng, dễ nhìn.
 * Import được API mediapipe vào HTML.
 
-Giới thiệu về 
+Cách sử dụng đơn giản trên python:
+1. Tải file creating_and_training_AI
+2. Run app.py
 
 # Directory
 <pre>
